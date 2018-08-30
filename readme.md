@@ -25,6 +25,8 @@ We are building an application that will use cat and dog images.
  
  # Acceptance Criteria
  
+ ### AC 1
+ 
 *Given* We have cat images
 
 *When* We analyze the objects in the images
@@ -35,6 +37,7 @@ We are building an application that will use cat and dog images.
 
 *And* We report on the frequency of the objects: Most common, least common, and their average confidence level.
 
+ ### AC 2
 
 *Given* We have cat images
 
@@ -46,6 +49,7 @@ We are building an application that will use cat and dog images.
 
 *And* We report on the frequency of the objects: Most common, least common, and their average confidence level.
 
+ ### AC 3
 
 *Given* We have cat images
 
@@ -57,7 +61,7 @@ We are building an application that will use cat and dog images.
 
 *And* We report on the frequency of the objects: Most common, least common, and their average confidence level.
 
-
+ ### AC 4
 
 *Given* We have cat images
 
