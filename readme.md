@@ -22,7 +22,53 @@ We are building an application that will use cat and dog images.
  # Instructions
  
  1. Get this repository cloned locally, dependencies installed, and run the tests. Starting out, one should pass and one should fail.
- 2. We'll provide additional instructions.
+ 
+ # Acceptance Criteria
+ 
+*Given* We have cat images
+
+*When* We analyze the objects in the images
+
+*And* We only accept images with confidence levels greater than 70%
+
+*Then* we report on the objects in the images
+
+*And* We report on the frequency of the objects: Most common, least common, and their average confidence level.
+
+
+*Given* We have cat images
+
+*When* We analyze the descriptions in the images
+
+*And* We only accept images with confidence levels greater than 70%
+
+*Then* we report on the objects in the images
+
+*And* We report on the frequency of the objects: Most common, least common, and their average confidence level.
+
+
+*Given* We have cat images
+
+*When* We analyze the descriptions in the images
+
+*And* We only accept images with confidence levels greater than 70%
+
+*Then* we report on the objects in the images
+
+*And* We report on the frequency of the objects: Most common, least common, and their average confidence level.
+
+
+
+*Given* We have cat images
+
+*When* We analyze the objects in the images
+
+*And* We only accept images with confidence levels greater than 70%
+
+*And* We draw boxes around each of the identified objects
+
+*Then* we store the new images locally.
+
  
  
  #APIs
