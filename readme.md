@@ -75,7 +75,7 @@ We are building an application that will use cat and dog images.
 
  
  
- #APIs
+ # APIs
  - [Cats](https://thecatapi.com/) | [Docs](https://documenter.getpostman.com/view/4016432/RWToRJCq#intro)
  - [Dogs](https://thedogapi.com/?image_id=r1xXEgcNX) | [Docs](https://documenter.getpostman.com/view/4016432/the-dog-api/RW81vZ4Z)
  - [Image Recognition](https://www.cloudmersive.com/image-recognition-and-processing-api) | [Docs](https://api.cloudmersive.com/docs/image.asp)
